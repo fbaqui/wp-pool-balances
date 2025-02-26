@@ -6,5 +6,5 @@
  * Author: Felipe Baqui
  * Author URI: https://github.com/fbaqui
  * License: GPL v2 ou posterior
- * Text Domain:pool-balances
+ * Text Domain:wp-pool-balances
  */
